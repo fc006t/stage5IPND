@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # 
 # tournament.py -- implementation of a Swiss-system tournament
-#
+# Hi Trish 644PM
 
 import psycopg2
 
