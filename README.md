@@ -6,4 +6,15 @@ Check off "ubuntu-trusty" and press "Start" if not already running
 After it starts press the "SSH" text under "Connect"
 An ubuntu shell will open
 
- 
+
+
+TO CONNECT TO TOURNAMENT TABLE THROUGH POSTGRES SQL ENGINE FROM SSH SHELL
+sudo –s
+sudo -u postgres psql postgres
+/c tournament
+/dt
+
+
+
+
+
