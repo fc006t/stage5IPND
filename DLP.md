@@ -1,4 +1,4 @@
- ## Great Instruction set from Trish
+## Great Instruction set from Trish
 * https://docs.google.com/document/d/13RohKl8uEGPGRumEq8jNKh2p1EKiQonHWOqU2DcjrDA/edit
 
 ## TO START THE UBUNTU SSH Session
