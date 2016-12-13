@@ -6,4 +6,4 @@ Check off "ubuntu-trusty" and press "Start" if not already running
 After it starts press the "SSH" text under "Connect"
 An ubuntu shell will open
 
-
+ 
