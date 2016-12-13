@@ -10,11 +10,12 @@
 
 
 
-TO CONNECT TO TOURNAMENT TABLE THROUGH POSTGRES SQL ENGINE FROM SSH SHELL
-sudo –s
-sudo -u postgres psql postgres
-/c tournament
-/dt
+## TO CONNECT TO TOURNAMENT TABLE THROUGH POSTGRES SQL ENGINE FROM SSH SHELL
+* sudo –s
+* sudo -u postgres psql postgres
+* /c tournament
+* /dt
+
 
 
 
